@@ -1,6 +1,6 @@
 # Olá, eu sou Rodrigo de Paula
 
-💻 Desenvolvedor em transição para Engenharia de Software  
+💻 Desenvolvedor com Background em Finanças.  
 🎯 Foco em desenvolvimento web, APIs e soluções orientadas a dados  
 📊 Background sólido em Finanças, Análise de Dados e sistemas corporativos (SAP e Oracle)
 
