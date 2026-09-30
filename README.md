@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor com Background em Finanças.  
 🎯 Foco em desenvolvimento web, APIs e soluções orientadas a dados  
-📊 Background sólido em Finanças, Análise de Dados e sistemas corporativos (SAP e Oracle)
+📊 Análise de Dados e sistemas corporativos (SAP e Oracle)
 
 ---
 
