@@ -1,7 +1,7 @@
 # Olá, eu sou Rodrigo de Paula
 
 💻 Desenvolvedor com Background em Finanças.  
-🎯 Foco em desenvolvimento web, APIs e soluções orientadas a dados  
+🎯 Foco em Soluções orientadas a dados  
 📊 Análise de Dados e sistemas corporativos (SAP e Oracle)
 
 ---
