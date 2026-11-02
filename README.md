@@ -1,4 +1,4 @@
-# Olá, eu sou Rodrigo de Paula
+# Olá, eu sou Rodrigo de Paula. Estou em transição de carreira para Engenharia de Software.
 
 💻 Desenvolvedor com Background em Finanças.  
 🎯 Foco em Soluções orientadas a dados  
@@ -15,6 +15,7 @@
 - **Jenkins CI/CD**
 - **Data Warehouse**
 - **SAP** | **Oracle**
+- **IA Generativa**
 
 ---
 
