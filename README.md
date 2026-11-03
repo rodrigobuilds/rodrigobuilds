@@ -1,4 +1,4 @@
-# Olá, eu sou Rodrigo de Paula. Estou em transição de carreira para Engenharia de Software.
+# Olá, eu sou Rodrigo de Paula.
 
 💻 Desenvolvedor com Background em Finanças.  
 🎯 Foco em Soluções orientadas a dados  
